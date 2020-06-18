@@ -1,0 +1,34 @@
+html, body {background: #FDEDEC; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #4A314D;}
+
+p {
+	font-size: 1em;
+	line-height: 1.4em;
+	margin-bottom: 20px;
+	color: #4A314D;
+}
+
+#mainArea {
+	width: 90%;
+	max-width: 900px;
+	margin: 40px auto;
+}
+
+
+#headshot {
+	width: 12.5%;
+	float: right;
+	margin-right: 187px;
+}
+
+#headshot img {
+	width: 100%;
+	height: auto;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+
+section {
+	border-top: 1px solid #C94277;
+	padding: 20px 0 0;
+}
